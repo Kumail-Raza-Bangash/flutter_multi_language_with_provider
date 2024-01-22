@@ -1,16 +1,47 @@
-# flutter_multi_language_with_provider
+# Flutter Multi-Languages with Provider
 
-A new Flutter project.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Flutter application demonstrating multi-language support using the Provider package. This app allows users to switch between different languages dynamically.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Multi-language support with easy language switching.
+- Clean and modular code using the Provider pattern.
+- Beautiful UI with a centered display.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video of My APP
+
+https://github.com/Kumail-Raza-Bangash/flutter_multi_language_with_provider/assets/60749099/7240f2c7-5320-4402-a3f1-a5d6ffbf8c2a
+
+
+## Technologies used
+- Flutter 
+- Dart
+- Provider State Management
+
+## Dependencies:
+- flutter_localization: ^0.2.0
+- provider: ^6.1.1
+- intl: ^0.18.1
+
+
+## How to use
+To run the app on your local machine, follow these steps:
+
+1. Clone this repository: **git clone [https://github.com/Kumail-Raza-Bangash?tab=repositories](https://github.com/Kumail-Raza-Bangash?tab=repositories)**
+2. Navigate to the project directory: **cd flutter_multi_language_with_provider**
+3. Install dependencies: **flutter pub get**
+4. Connect your device or emulator.
+5. Run the app: **flutter run**
+
+Make sure you have Flutter and Dart installed on your machine before running the app.
+
+
+## Feedback and Contributions
+Your feedback is invaluable in enhancing this app. If you encounter any issues or have suggestions for improvements, please create a pull request or submit an issue. Let's collaborate and make this app a resourceful tool for this enthusiasts!
+
+Feel free to contribute, report issues, or suggest improvements!
+
